@@ -1,12 +1,6 @@
 # random-notes
 notes for papers and other random stuff
 
-Install Atom, add my emacs init.el, texstudio and aegisub
-Also anaconda, tensorflow, dynet, kaldi+irstlm, dropbox, skype, spotify,
-telegram, terminator, hamachi+haguichi, git, sox
-
-get my repos from github
-
 Install PCSX and change that little ting-a-magick from 0 to 1 so it works
 
 
